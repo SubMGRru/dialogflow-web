@@ -1,6 +1,6 @@
 export default {
     app: {
-        token: "9d686a47b1de48bab431e94750d1cd87", // <- enter your token here
+        token: "1ed32d5270a24ea52ce14e21f57b19b91d551be7", // <- enter your token here
         muted: false, // <- mute microphone by default
         googleIt: true // <- ask users to google their request, in case of input.unknown action
     },
@@ -14,8 +14,8 @@ export default {
             voiceTitle: "Go ahead, im listening..."
         },
         settings: {
-            speechLang: "en-GB", // <- output language
-            recognitionLang: "en-US" // <- input(recognition) language
+            speechLang: "ru-RU", // <- output language
+            recognitionLang: "ru-RU" // <- input(recognition) language
         }
     }
 }
